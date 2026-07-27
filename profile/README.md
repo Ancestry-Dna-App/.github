@@ -1,5 +1,6 @@
-## Fast Family History Notes
+# Ancestry App - Family History, DNA Results, and Mobile Tree Research
 
+## Fast Family History Notes
 
 What is Ancestry App? Ancestry App helps you build your family tree, explore historical records, save photos, and discover meaningful stories about your heritage.  
 Why use it on mobile? Ancestry App keeps family tree updates, ancestry search tools, and saved records close while you research anywhere.  
